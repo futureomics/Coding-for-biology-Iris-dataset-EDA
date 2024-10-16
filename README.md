@@ -1,4 +1,7 @@
 A comprehensive Exploratory Data Analysis (EDA) of the Iris dataset using Python, we can leverage three visualization libraries: Matplotlib, Seaborn, and Plotly. Each library offers different strengths. 
+
+![image](https://github.com/user-attachments/assets/f9d37a7e-4c57-4eda-987c-10922638af06)
+
 https://www.youtube.com/@Bioinformatics_Made_Easy
 
 1.Data Distribution:
