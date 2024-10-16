@@ -21,3 +21,6 @@ Interactive Plots (Plotly):
 
 5.Interactive scatter plots for deeper exploration.
 Interactive scatter plots for deeper exploration.
+
+![image](https://github.com/user-attachments/assets/bb2e0d59-8f02-4e10-8cda-ad6d45820b6b)
+
